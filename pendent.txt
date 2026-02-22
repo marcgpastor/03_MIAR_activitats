@@ -1,0 +1,12 @@
+General
+- Títols
+
+1. Viaje por el río
+RES
+
+2. Asignación de tareas
+- Docstrings funcions
+- Corregir anàlisi per a millorar nota
+
+3. Gradiente
+- Corregir anàlisi per a millorar nota
