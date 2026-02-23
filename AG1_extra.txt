@@ -1,0 +1,13 @@
+Para conseguir la máxima nota (un 10) en la Actividad Guiada 1 (AG1), debes realizar una aportación adicional al trabajo base. Entregar únicamente el notebook con el código exacto que el profesor desarrolla durante la clase te asegura una calificación de 8 sobre 10.
+Para sumar los 2 puntos extra y alcanzar el 10, el profesor ofrece dos opciones principales:
+1. Proponer una mejora de tu propia cosecha Puedes plantear una modificación interesante o una mejora a los algoritmos vistos en la sesión. Algunas de las mejoras válidas que el profesor ha mencionado son:
+• Reducir la complejidad computacional del algoritmo.
+• Plantear un método o enfoque algorítmico alternativo para el mismo problema.
+• Realizar una ejecución sobre un problema de mayor tamaño y comparar su rendimiento con el tamaño actual.
+2. Resolver la práctica individual propuesta (Recomendado si no tienes una mejora propia) Si no se te ocurre ninguna modificación para el código de clase, puedes resolver el ejercicio adicional que aparece propuesto al final del material (PDF) de la AG1.
+Específicamente para la AG1, este reto extra consiste en encontrar los dos puntos más cercanos dentro de un conjunto de datos. La guía para resolverlo y obtener el 10 incluye:
+• Generar conjuntos de datos aleatorios en una dimensión (1D).
+• Resolverlo primero mediante un algoritmo de Fuerza Bruta y calcular su complejidad.
+• Mejorarlo aplicando la técnica de Divide y Vencerás (encontrar una solución en términos polinómicos) y volver a calcular su complejidad.
+• Extender el algoritmo para que funcione en dos dimensiones (2D) y en tres dimensiones (3D).
+Por último, para que la entrega sea válida y se evalúe correctamente, recuerda que debes generar un documento PDF desde tu entorno de Google Colab e incluir en él el enlace a tu repositorio público de GitHub con el código.AG1_extra.txt
